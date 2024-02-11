@@ -1,11 +1,11 @@
 
-🌐 Dive into my world: [portfolio-ua66.netlify.app](https://portfolio-ua66.netlify.app)
-📧 Drop me a line: uriya66@gmail.com
-
-
 <h1 align="center">Hi 👋, I'm Uriya Azani</h1>
 <h3 align="center">A fervent Software Engineer, DevOps, and Full-stack Web Developer on a journey fueled by passion and innovation.</h3>
 
+
+🌐 Dive into my world: [portfolio-ua66.netlify.app](https://portfolio-ua66.netlify.app)
+
+📧 Drop me a line: uriya66@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
