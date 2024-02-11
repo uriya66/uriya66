@@ -9,12 +9,6 @@
 <h1 align="center">Hi 👋, I'm Uriya Azani</h1>
 <h3 align="center">A fervent Software Engineer, DevOps, and Full-stack Web Developer on a journey fueled by passion and innovation.</h3>
 
-- 💬 Ask me about **DevOps / Full-stack**
-
-- 📫 How to reach me **uriya66@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-ua66.netlify.app/](https://portfolio-ua66.netlify.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uriyaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uriyaaz" height="30" width="40" /></a>
