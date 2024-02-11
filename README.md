@@ -9,10 +9,6 @@
 <h1 align="center">Hi 👋, I'm Uriya Azani</h1>
 <h3 align="center">A fervent Software Engineer, DevOps, and Full-stack Web Developer on a journey fueled by passion and innovation.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uriya66" alt="uriya66" /></a> </p>
-
-- 🔭 I’m currently working on refining DevOps methodologies and orchestrating Kubernetes clusters at Infini-T AI company
-
 - 👨‍💻 All of my projects are available at [https://portfolio-ua66.netlify.app/](https://portfolio-ua66.netlify.app/)
 
 - 💬 Ask me about **DevOps / Full-stack**
