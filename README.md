@@ -12,6 +12,8 @@
 <a href="https://linkedin.com/in/uriyaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uriyaaz" height="30" width="40" /></a>
 </p>
 
+![google-mail](https://github.com/uriya66/uriya66/assets/35742868/079f085b-f239-4fff-af56-7e372bc0ceb8)
+
 <a href="mailto:uriya66@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="uriya66@gmail.com" height="30" width="40" /></a>
 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
