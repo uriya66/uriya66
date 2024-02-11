@@ -9,8 +9,6 @@
 <h1 align="center">Hi 👋, I'm Uriya Azani</h1>
 <h3 align="center">A fervent Software Engineer, DevOps, and Full-stack Web Developer on a journey fueled by passion and innovation.</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ua66.netlify.app/](https://portfolio-ua66.netlify.app/)
-
 - 💬 Ask me about **DevOps / Full-stack**
 
 - 📫 How to reach me **uriya66@gmail.com**
