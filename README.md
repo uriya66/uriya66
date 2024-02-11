@@ -10,11 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uriyaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uriyaaz" height="30" width="40" /></a>
+
+<a href="mailto:uriya66@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="uriya66@gmail.com" height="30" width="40" />
+</a>
 </p>
 
-<a href="mailto:uriya66@gmail.com" target="blank">
-  <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/281/281764.svg" alt="uriya66@gmail.com" height="30" width="40" />
-</a>
 
 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
